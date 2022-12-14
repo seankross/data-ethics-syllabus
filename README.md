@@ -15,7 +15,7 @@ Very much a work in progress. Pull requests welcome.
 - https://hannawallach.medium.com/big-data-machine-learning-and-the-social-sciences-927a8e20460d
 - https://www.wired.com/story/should-data-scientists-adhere-to-a-hippocratic-oath/
 - https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
-- https://www.annaeveryday.com/s/Hoffmann-TermsOfInclusion.pdf
+- https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/
 
 ## Papers
 
@@ -28,3 +28,4 @@ Very much a work in progress. Pull requests welcome.
 - https://estsjournal.org/index.php/ests/article/view/277/205
 - https://dl.acm.org/doi/pdf/10.1145/3144172
 - https://www.nature.com/articles/d41586-020-01812-9
+- https://www.annaeveryday.com/s/Hoffmann-TermsOfInclusion.pdf
