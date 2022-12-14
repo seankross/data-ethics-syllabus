@@ -20,7 +20,7 @@ Very much a work in progress. Pull requests welcome.
 ## Papers
 
 - [Teaching Data Ethics: Foundations and Possibilities from Engineering and Computer Science Ethics Education.](https://www.annaeveryday.com/s/TeachingDataEthicsFoundations-Hoffmann-Cross.pdf) Anna Lauren Hoffmann.
-- [Terms of inclusion: Data, discourse, violence.]() Anna Lauren Hoffmann.
+- [Terms of inclusion: Data, discourse, violence.](https://www.annaeveryday.com/s/Hoffmann-TermsOfInclusion.pdf) Anna Lauren Hoffmann.
 - [Ten simple rules for responsible big data research.](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005399&type=printable)
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565
 - https://journals.uic.edu/ojs/index.php/fm/article/view/6791
@@ -28,4 +28,3 @@ Very much a work in progress. Pull requests welcome.
 - https://estsjournal.org/index.php/ests/article/view/277/205
 - https://dl.acm.org/doi/pdf/10.1145/3144172
 - https://www.nature.com/articles/d41586-020-01812-9
-- https://www.annaeveryday.com/s/Hoffmann-TermsOfInclusion.pdf
